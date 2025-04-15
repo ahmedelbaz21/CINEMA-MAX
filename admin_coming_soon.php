@@ -7,7 +7,7 @@ include "db_connection.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CinemaMax - [Page Title]</title>
+    <title>CinemaMax - admin comig soon </title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="common.css">
     <style>
@@ -17,15 +17,15 @@ include "db_connection.php";
 <body>
     <header>
         <div class="header-container">
-            <a href="home.html" class="icon-btn"><i class="fas fa-home"></i></a>
+    
             <h1><span class="cinema">CINEMA</span><span class="max">MAX</span></h1>
-            <a href="profile.html" class="icon-btn"><i class="fas fa-user"></i></a>
+           
         </div>
     </header>
 
     <nav>
-        <a href="home.html">Now Showing</a>
-        <a href="coming_soon.html">Coming Soon</a>
+        <a href="Adminhome.php">Now Showing</a>
+        <a href="admin_coming_soon.php">Coming Soon</a>
         <a href="offers.html">Offers</a>
         <a href="f&b.html">Food & Beverages</a>
         <a href="location.html">Our Locations</a>
